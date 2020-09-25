@@ -9,7 +9,7 @@
             "macFrameworkPath": [],
             "compilerPath": "clang++",
             "cStandard": "c11",
-            "cppStandard": "c++17",
+            "cppStandard": "c++14",
             "intelliSenseMode": "clang-x64"
         }
     ],

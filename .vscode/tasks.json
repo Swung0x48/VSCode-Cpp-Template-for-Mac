@@ -8,7 +8,7 @@
             "label": "C/C++: clang++ build active file",
             "command": "/usr/bin/clang++",
             "args": [
-                "-std=c++17",
+                "-std=c++14",
                 "-stdlib=libc++",
                 "-g",
                 "${workspaceFolder}/*.cpp",
